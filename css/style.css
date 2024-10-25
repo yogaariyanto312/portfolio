@@ -60,18 +60,11 @@ body {
       }
   }
 
-  .bg-img {
-    height: 100vh;
-    width: 100vw;
-    object-fit: cover;
-    filter: brightness(0.6);
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: -1;
-  }
-  
-.MeName {
-    padding-top: 5rem;
-    margin: 50px 70px 10px 10px;
+.portfolio {
+  padd
+
+}
+
+.card {
+  width: 18rem;
 }
